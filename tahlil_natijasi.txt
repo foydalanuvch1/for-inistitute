@@ -1,0 +1,12 @@
+ TALABALAR BAHOLARI TAHLILI 
+Umumiy talabalar soni: 5 ta
+O'rtacha ball: 87.60
+Eng yuqori ball: 95
+Eng past ball: 78
+-----------------------------------
+Talabalar reytingi (yuqoridan pastga):
+Olimova Zebo -> 95 ball
+Karimova Nargiza -> 92 ball
+Sodiqov Anvar -> 88 ball
+Aliyev Vali -> 85 ball
+Toshmatov Jasur -> 78 ball
